@@ -1,0 +1,7 @@
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.csproj.AssemblyReference.cache
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.AssemblyInfoInputs.cache
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.AssemblyInfo.cs
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.csproj.CoreCompileInputs.cache
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asya\Desktop\TodoListApp\obj\Debug\net6.0\TodoListApp.MvcApplicationPartsAssemblyInfo.cache
